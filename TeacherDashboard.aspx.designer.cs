@@ -33,6 +33,24 @@ namespace CourseWorkSoftwarePolishchukOlha
         protected global::System.Web.UI.WebControls.Table AttendanceTable;
 
         /// <summary>
+        /// txtStudentId control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtStudentId;
+
+        /// <summary>
+        /// txtStudentName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtStudentName;
+
+        /// <summary>
         /// btnAddStudent control.
         /// </summary>
         /// <remarks>
@@ -42,12 +60,21 @@ namespace CourseWorkSoftwarePolishchukOlha
         protected global::System.Web.UI.WebControls.Button btnAddStudent;
 
         /// <summary>
-        /// btnSubmit control.
+        /// lblStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmit;
+        protected global::System.Web.UI.WebControls.Label lblStatus;
+
+        /// <summary>
+        /// GridViewStudents control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewStudents;
     }
 }
